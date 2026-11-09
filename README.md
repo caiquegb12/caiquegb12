@@ -26,12 +26,23 @@
 
 ## 🚀 Projetos em destaque
 
-### ⏳ [Cronômetro - Centenário do Mercado Central](https://github.com/caiquegb12/Cronometro)
-Contagem regressiva para o centenário do Mercado Central (07/09/2029), alternando com telas de propaganda em vídeo. Site estático publicado no GitHub Pages.
-🔗 [Ver no ar](https://caiquegb12.github.io/Cronometro/)
+### 🎓 [Sistema web — TCC](https://github.com/caiquegb12/Site-Final-TCC)
 
-### 🎓 [Site-Final-TCC](https://github.com/caiquegb12/Site-Final-TCC)
-Sistema web do Trabalho de Conclusão de Curso, com Node.js, Express e MySQL. Inclui autenticação com JWT, gerenciamento de usuários, chat em tempo real e controle de tarefas.
+Aplicação com **Node.js, Express e MySQL**, desenvolvida como Trabalho de Conclusão de Curso. Reúne autenticação com JWT, gerenciamento de usuários, chat em tempo real e controle de tarefas.
+
+### 🧪 [Formulário de cadastro — Playwright](https://github.com/caiquegb12/Form-Cadastro)
+
+Formulário em **HTML, CSS e JavaScript**, com testes automatizados em **Playwright** para abertura da página, campos obrigatórios, cadastro, prevenção de duplicidade e exclusão de registros.
+
+### ✅ [Testes end-to-end — Cypress](https://github.com/caiquegb12/Cypress)
+
+Automação de testes de um fluxo de cadastro com **Cypress**. Os cenários verificam carregamento da página, validação de campos, cadastro com dados válidos, prevenção de duplicidade e limpeza da lista.
+
+### ⏳ [Cronômetro — Centenário do Mercado Central](https://github.com/caiquegb12/Cronometro)
+
+Contagem regressiva para o centenário do Mercado Central, em **7 de setembro de 2029**, alternando com telas de propaganda em vídeo. Site estático publicado no **GitHub Pages**.
+
+🔗 [Acessar demonstração](https://caiquegb12.github.io/Cronometro/)
 
 ## 📊 Estatísticas
 
